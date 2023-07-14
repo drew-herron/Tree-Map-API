@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-24 01:12:27" Modified_Date="2023-06-28 15:10:02" Creator="Win 10" Comments="" ID="710d8a2b016439f443d1f00704744608">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-24 01:12:27" Modified_Date="2023-07-14 16:39:45" Creator="Win 10" Comments="" ID="bb4c9a16aa3bcd1f9aa64c1e4e7e648b">
   <Library_General_Settings>
     <Package_File_Name>NI_Tree_Map</Package_File_Name>
-    <Library_Version>2.3.1.25</Library_Version>
+    <Library_Version>2.3.3.27</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Source</Library_Source_Folder>
     <Library_Output_Folder>..\Packages</Library_Output_Folder>
@@ -36,7 +36,7 @@ https://en.wikipedia.org/wiki/Tree_(data_structure)</Description>
       <Copyright/>
       <Packager>Piotr Kruczkowski</Packager>
       <URL>https://github.com/Primary-Key/Tree-Map-API</URL>
-      <Release_Notes>- Add ability to retain tree item insertion order when exporting to XML</Release_Notes>
+      <Release_Notes>- Add support for special characters to and from XML: &lt;&gt;'&amp;"</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -383,7 +383,7 @@ https://en.wikipedia.org/wiki/Tree_(data_structure)</Description>
         <Path>..\Source\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BBBEE02C00E1B6D85701A030150E8E7E</GUID>
+      <GUID>E905EA1A0B3A5DD13FCF935C7331B2CC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -516,7 +516,7 @@ https://en.wikipedia.org/wiki/Tree_(data_structure)</Description>
         <Path>..\Source\Examples\XML Example.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>32225559DFD10692F98C55A1F83894FD</GUID>
+      <GUID>66B6438B4706EFF6BECDE2E4568104CD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -579,7 +579,7 @@ https://en.wikipedia.org/wiki/Tree_(data_structure)</Description>
         <Path>..\Source\API\Get Node Data.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>381832FEC9A544F09358F9C1F92BF53F</GUID>
+      <GUID>F8F42D6FBED39B8462060D9DED74EEBD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -684,7 +684,7 @@ https://en.wikipedia.org/wiki/Tree_(data_structure)</Description>
         <Path>..\Source\Utility\Split String Tree.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B20983716F30E166C11A1330B0676FD5</GUID>
+      <GUID>0A7004B83C1EBF90A46855FB38F21AC6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="19008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*%!!!*Q(C=\&gt;5R&lt;BJ"'-8RF]B#4G=OA#/O]&amp;W"/BV8_+Z!SX;5;&gt;]6O!*8_!L,06&gt;!4I^E`X=]2EE54/&amp;9=O&amp;:$QNP:G&gt;_T!ZLK:6L[5K0FYJ?,;@W'984E8L@SJ`NM^FE-H9YUO(_"_8P^AGFN2]PN*_Z`G6]`&lt;P^R;=TPP0@\UX,]VE_SY=P[YO&lt;`.XX_J@W3[-7V&gt;3E2PNV0B:ZE2&gt;ZE2&gt;ZE:P=Z#9XO=F.HO2*HO2*HO2*(O2"(O2"(O2"XAZSE9N=Z*#+S9O*CE',!9L/5&amp;3]&amp;*\#5XA+$R^6?!J0Y3E]B9=O+DS&amp;J`!5HM,$:3I]B;@Q&amp;*\#QV".5OUARV.Y'&amp;\'9TT'9TT'QZ1S(A-QEZG"T3!Q:"L.'_-R(O0BL9T(?)T(?)S(:BG0]2C0]2A0F\26=&gt;/-"TE?BF(C34S**`%E(I:7YEE]C3@R*"[G5_**0!ECG4!:()+3CZ)/S9@%EXAY+@%EHM34?")04?U/:6O:54-?Z(A#4_!*0)%H]$#%!E`A#4S"*`!QL!*0Y!E]A3@Q-*5#4_!*0!%EG*4J&amp;1Q78"BU#I,!QV`&lt;,&gt;(OEJMEWC(VT;O_+&gt;5XG`IG5N]=[D&gt;&gt;`7;KXS4VR6&gt;@608&amp;5F]%^3_HDF&lt;(K%_C@P(951&gt;?^^1&gt;&gt;5P&gt;5&amp;@5*86"H6/HY[8`O?0B=."_P^&gt;ON^.WO^6GM^&amp;KN&gt;*SO&gt;2CM&gt;"]0N&gt;U/DU^"LZTH"Y)T]_F.?`8PW[(Q4_(Y&gt;M&gt;F&lt;.PBP8$\4#WP@0`Y!`Q&lt;.28`4Y_;`1%ZGQ[61!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
+<Library LVVersion="20008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*%!!!*Q(C=\&gt;5R&lt;BJ"'-8RF]B#4G=OA#/O]&amp;W"/BV8_+Z!SX;5;&gt;]6O!*8_!L,06&gt;!4I^E`X=]2EE54/&amp;9=O&amp;:$QNP:G&gt;_T!ZLK:6L[5K0FYJ?,;@W'984E8L@SJ`NM^FE-H9YUO(_"_8P^AGFN2]PN*_Z`G6]`&lt;P^R;=TPP0@\UX,]VE_SY=P[YO&lt;`.XX_J@W3[-7V&gt;3E2PNV0B:ZE2&gt;ZE2&gt;ZE:P=Z#9XO=F.HO2*HO2*HO2*(O2"(O2"(O2"XAZSE9N=Z*#+S9O*CE',!9L/5&amp;3]&amp;*\#5XA+$R^6?!J0Y3E]B9=O+DS&amp;J`!5HM,$:3I]B;@Q&amp;*\#QV".5OUARV.Y'&amp;\'9TT'9TT'QZ1S(A-QEZG"T3!Q:"L.'_-R(O0BL9T(?)T(?)S(:BG0]2C0]2A0F\26=&gt;/-"TE?BF(C34S**`%E(I:7YEE]C3@R*"[G5_**0!ECG4!:()+3CZ)/S9@%EXAY+@%EHM34?")04?U/:6O:54-?Z(A#4_!*0)%H]$#%!E`A#4S"*`!QL!*0Y!E]A3@Q-*5#4_!*0!%EG*4J&amp;1Q78"BU#I,!QV`&lt;,&gt;(OEJMEWC(VT;O_+&gt;5XG`IG5N]=[D&gt;&gt;`7;KXS4VR6&gt;@608&amp;5F]%^3_HDF&lt;(K%_C@P(951&gt;?^^1&gt;&gt;5P&gt;5&amp;@5*86"H6/HY[8`O?0B=."_P^&gt;ON^.WO^6GM^&amp;KN&gt;*SO&gt;2CM&gt;"]0N&gt;U/DU^"LZTH"Y)T]_F.?`8PW[(Q4_(Y&gt;M&gt;F&lt;.PBP8$\4#WP@0`Y!`Q&lt;.28`4Y_;`1%ZGQ[61!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -49,6 +49,7 @@
 		<Item Name="Attributes to XML String.vi" Type="VI" URL="../XML/Attributes to XML String.vi"/>
 		<Item Name="Make Node Name Unique.vi" Type="VI" URL="../SubVIs/Make Node Name Unique.vi"/>
 		<Item Name="TM Init and Last.vi" Type="VI" URL="../SubVIs/TM Init and Last.vi"/>
+		<Item Name="Replace Special Characters.vi" Type="VI" URL="../SubVIs/Replace Special Characters.vi"/>
 	</Item>
 	<Item Name="Examples" Type="Folder">
 		<Item Name="Plant Catalog W3.vi" Type="VI" URL="../Examples/Plant Catalog W3.vi"/>
